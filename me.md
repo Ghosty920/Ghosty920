@@ -1,18 +1,17 @@
-<h2>✨ Hey, je me présente, GhostCode</h2>
-
-- 👀 Je suis juste un développeur comme ça
-
-- 🍵 Je développe en JS et en Java
-
-- 🎀 Je suis admin d'un serveur communautaire discord basé sur le dev
-
-- 🥒 Développeur chez CodeNHack
-
-- 🎨 Je code des trucs pour R ou pour ma vie (encore R)... 
+<h2>✨ Hey, I'm GhostCode !</h2>
 
 <hr>
 
-**Mes projets:**
+> 🇫🇷 I am French
 
-<a href="https://discord.gg/qTdkwwkKbF">CodeNHack</a>, Just Code *(bientôt disponible)*, "Launcher cheat minecraft toujours sans nom après quelques jours" *(bientôt disponible)*
+> 🧱 I create Minecraft Plugins and Hacked Clients
 
+> ❔ I sometimes do things I shouldn't... but ye... I'm cool
+
+<hr>
+
+<p>Discord: GhostCode#1832 😏</p>
+<p>GitHub: It's here ! 😶</p>
+<p>YouTube: Not coming soon 😥</p>
+
+<hr>
