@@ -6,12 +6,12 @@
 
 > 🧱 I create Minecraft Plugins and Hacked Clients
 
-> ❔ I sometimes do things I shouldn't... but ye... I'm cool
+> ❔ I sometimes do things... Very useless... But I'm cool
 
 <hr>
 
 <p>Discord: GhostCode#1832 😏</p>
-<p>GitHub: It's here ! 😶</p>
-<p>YouTube: Not coming soon 😥</p>
+<p>GitHub: It's here bozo 😶</p>
+<p>Twitter: It don't let me create a account 🤕</p>
 
 <hr>
