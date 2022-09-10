@@ -4,7 +4,7 @@
 
 > 🇫🇷 I am French
 
-> 🧱 I create Minecraft Plugins and Hacked Clients
+> 🧱 I create Minecraft Plugins and Clients
 
 > ❔ I sometimes do things... Very useless... But I'm cool
 
