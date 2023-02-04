@@ -1,4 +1,4 @@
-<h2>✨ Hey, I'm GhostCode !</h2>
+<h2>✨ Hey, I'm Ghosty !</h2>
 
 <hr>
 
@@ -10,11 +10,13 @@
 
 > ❔ I sometimes do things... Very useless... But I'm cool
 
+> 🤭 I make useless websites for fun
+
 <hr>
 
 <h3>Contact:</h3>
 <p>Discord: GhostCode#1832 😏</p>
 <p>GitHub: It's here bozo 😶</p>
-<p>Twitter: It don't let me create a account 🤕</p>
+<p>Twitter: It don't let me create an account 🤕</p>
 
 <hr>
