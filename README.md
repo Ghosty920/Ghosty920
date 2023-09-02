@@ -2,21 +2,19 @@
 
 <hr>
 
-> 🇫🇷 I am French
+> 🇫🇷 From the North of French (Pas-de-Calais)
 
-> 🧱 I create Minecraft Plugins, Mods and Clients
+> 💻 I use Java, JavaScript, Python, HTML
 
-> 🤖 I do Discord Bots and other things in JavaScript
+> 👍 I know some of Kotlin, C++
 
-> ❔ I sometimes do things... Very useless... But I'm cool
+> 👓 Working @ Astrella & UrbanScape Interactive
 
-> 🤭 I make useless websites for fun
+> 🤭 I make Minecraft plugins/mods/clients, Discord bots (Node.js), and simple websites for fun
 
 <hr>
 
 <h3>Contact:</h3>
-<p>Discord: GhostCode#1832 😏</p>
-<p>GitHub: It's here bozo 😶</p>
-<p>Twitter: It don't let me create an account 🤕</p>
+<p>Discord: ghosty920 </p>
 
 <hr>
