@@ -2,15 +2,15 @@
 
 <hr>
 
-> 🇫🇷 From the North of French (Pas-de-Calais)
+> 🇫🇷 From France
 
 > 💻 I use Java, JavaScript, Python, HTML
 
 > 👍 I know some of Kotlin, C++
 
-> 👓 Working @ Astrella & UrbanScape Interactive
+> 👓 Working @ Astrella
 
-> 🤭 I make Minecraft plugins/mods/clients, Discord bots (Node.js), and simple websites for fun
+> 🤭 I make Minecraft plugins/mods/clients, Discord bots (discord.js), and simple websites for fun
 
 <hr>
 
