@@ -8,7 +8,7 @@
 
 > 👍 I know some of Kotlin, C++
 
-> 👓 Working @ Astrella
+> 👓 Working @ [Astrella](https://discord.gg/AX6273vKmY) & [Unisteria](https://unisteria.netlify.app)
 
 > 🤭 I make Minecraft plugins/mods/clients, Discord bots (discord.js), and simple websites for fun
 
