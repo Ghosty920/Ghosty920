@@ -8,9 +8,9 @@
 
 > 👍 I know some of Kotlin, C++
 
-> 👓 Working @ [Astrella](https://discord.gg/AX6273vKmY) & [Unisteria](https://unisteria.netlify.app)
+> 👓 Working @ GlassMC
 
-> 🤭 I make Minecraft plugins/mods/clients, Discord bots (discord.js), and simple websites for fun
+> 🤭 I make Minecraft plugins/mods/clients, Discord bots (discord.js), and websites for fun
 
 <hr>
 
