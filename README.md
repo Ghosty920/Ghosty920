@@ -1,20 +1,27 @@
-<h2>✨ Hey, I'm Ghosty !</h2>
+<div align="center">
+  
+  # ✨ Hey, I'm [Ghosty](https://ghosty.im/) !
+  ~ *some guy that really likes code* ~
+  
+</div>
+<br>
 
-<hr>
+## Contact / Links
 
-> 🇫🇷 From France
+### [Discord](https://ghosty.im/discord?from=github)
+My only accounts are `ghosty920` (termed), `ghosty.im` (termed) and `gothesque.`.
 
-> 💻 I use Java, JavaScript, Python, HTML
+You can also join [my discord](https://ghosty.im/discord?from=github)!
 
-> 👍 I know some of Kotlin, C++
+### Modding platforms
+#### [Modrinth](https://modrinth.com/user/Ghosty920)
+#### [SpigotMC](https://www.spigotmc.org/members/ghosty920.2127548/)
+#### [CurseForge](https://www.curseforge.com/members/ghosty920/)
+### Medias
+#### [YouTube](https://youtube.com/@Ghosty920)
+#### [Twitch](https://twitch.tv/Ghosty920_)
+#### [X/Twitter](https://x.com/ghosty920)
 
-> 👓 Working @ GlassMC
-
-> 🤭 I make Minecraft plugins/mods/clients, Discord bots (discord.js), and websites for fun
-
-<hr>
-
-<h3>Contact:</h3>
-<p>Discord: ghosty920 </p>
+###### (je savais pas cmt rendre ça beau ngl)
 
 <hr>
