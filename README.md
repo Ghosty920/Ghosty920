@@ -9,7 +9,7 @@
 ## Contact / Links
 
 ### [Discord](https://ghosty.im/discord?from=github)
-My only accounts are [`ghosty920`](https://discord.com/users/371665471050612737) (termed), [`im.ghosty`](https://discord.com/users/1291731832370368553) (termed) and [`gothesque.`](https://discord.com/users/810632538359070730).
+My only account is [`gothesque.`](https://discord.com/users/810632538359070730).
 
 You can also join [my discord server](https://ghosty.im/discord?from=github)! (I prefer not answering in pm)
 
