@@ -6,22 +6,33 @@
 </div>
 <br>
 
-## Contact / Links
+<div>
+  <div align="left" style="display: inline-block; vertical-align: top;">
 
-### [Discord](https://ghosty.im/discord?from=github)
-My only account is [`ghosty920`](https://discord.com/users/810632538359070730).
+### [Join my Discord Server](https://ghosty.im/discord?from=github)
 
-You can also join [my discord server](https://ghosty.im/discord?from=github)! (I prefer not answering in pm)
+<p>
+  <a href="https://discord.com/users/810632538359070730">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://widgets.ghosty.im/discord?dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://widgets.ghosty.im/discord?light">
+      <img align="top" src="https://widgets.ghosty.im/discord?dark">
+    </picture>
+  </a>
+</p>
+
+please open a ticket on my server, I dislike private messages ^^
+
+<hr>
 
 ### Modding platforms
-#### [Modrinth](https://modrinth.com/user/Ghosty920)
-#### [SpigotMC](https://www.spigotmc.org/members/ghosty920.2127548/)
-#### [CurseForge](https://www.curseforge.com/members/ghosty920/)
+#### ↦ [Modrinth](https://modrinth.com/user/Ghosty920) - most of where my stuff is posted
+#### ↦ [SpigotMC](https://www.spigotmc.org/members/ghosty920.2127548/) - rarely
+#### ↦ [CurseForge](https://www.curseforge.com/members/ghosty920/) - even more rarely
 ### Medias
-#### [YouTube](https://youtube.com/@Ghosty920)
-#### [Twitch](https://twitch.tv/Ghosty920_)
-#### [X/Twitter](https://x.com/ghosty920)
-
-###### (je savais pas cmt rendre ça beau ngl)
+#### ↦ [YouTube](https://youtube.com/@Ghosty920) - if something drops that might be a lucky day
+#### ↦ [Twitch](https://twitch.tv/Ghosty920_) - top 10 most useless links
+#### ↦ [X/Twitter](https://x.com/ghosty920) - I go on it once a year
+#### ↦ [TikTok](https://www.tiktok.com/@im.ghosty920) - the only times you'll see me, I'll be reposting fun shit or insulting people
 
 <hr>
