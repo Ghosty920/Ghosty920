@@ -14,9 +14,9 @@
 <p>
   <a href="https://discord.com/users/810632538359070730">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://widgets.ghosty.im/discord?dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://widgets.ghosty.im/discord?light">
-      <img align="top" src="https://widgets.ghosty.im/discord?dark">
+      <source media="(prefers-color-scheme: dark)" srcset="https://widgets.ghosty.im/discord?theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://widgets.ghosty.im/discord?theme=light">
+      <img align="top" src="https://widgets.ghosty.im/discord?theme=dark">
     </picture>
   </a>
 </p>
