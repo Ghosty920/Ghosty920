@@ -29,10 +29,7 @@ please open a ticket on my server, I dislike private messages ^^
 #### ↦ [Modrinth](https://modrinth.com/user/Ghosty920) - most of where my stuff is posted
 #### ↦ [SpigotMC](https://www.spigotmc.org/members/ghosty920.2127548/) - rarely
 #### ↦ [CurseForge](https://www.curseforge.com/members/ghosty920/) - even more rarely
-### Medias
-#### ↦ [YouTube](https://youtube.com/@Ghosty920) - if something drops that might be a lucky day
-#### ↦ [Twitch](https://twitch.tv/Ghosty920_) - top 10 most useless links
-#### ↦ [X/Twitter](https://x.com/ghosty920) - I go on it once a year
-#### ↦ [TikTok](https://www.tiktok.com/@im.ghosty920) - the only times you'll see me, I'll be reposting fun shit or insulting people
 
 <hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ghosty920&theme=react&hide_border=true&border_radius=15&timezone=%2B2&card_width=470&hide_longest_streak=true)](https://git.io/streak-stats)
