@@ -32,4 +32,4 @@ please open a ticket on my server, I dislike private messages ^^
 
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ghosty920&theme=react&hide_border=true&border_radius=15&timezone=%2B2&card_width=470&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ghosty920&theme=react&hide_border=true&border_radius=15&timezone=%2B2&card_width=470&hide_longest_streak=true)](/#contribution-day-component-0-0)
