@@ -25,10 +25,16 @@ please open a ticket on my server, I dislike private messages ^^
 
 <hr>
 
-### Modding platforms
-#### ↦ [Modrinth](https://modrinth.com/user/Ghosty920) - most of where my stuff is posted
-#### ↦ [SpigotMC](https://www.spigotmc.org/members/ghosty920.2127548/) - rarely
-#### ↦ [CurseForge](https://www.curseforge.com/members/ghosty920/) - even more rarely
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://modrinth.com/user/Ghosty920">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://widgets.ghosty.im/modrinth?origin=github&theme=dark&size=80">
+      <source media="(prefers-color-scheme: light)" srcset="https://widgets.ghosty.im/modrinth?origin=github&theme=light&size=80">
+      <img align="top" src="https://widgets.ghosty.im/modrinth?origin=github&theme=dark&size=80">
+    </picture>
+  </a>
+</p>
 
 <hr>
 
